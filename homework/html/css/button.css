@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  
+  button
+  { 
+    pading 10px 10px;
+    background-color:Cornsilk;
+    border:2px black solid;
+    color: black;
+    border-radius: 10px;
+  }
+  
+  .Khaki
+  {
+   background-color:#F0E68C;
+  }
+
+  .LightCyan
+  {
+   background-color:#E0FFFF;
+  }
+
+  .SandyBrown
+  {
+   background-color:#F4A460;
+  }
+
+</style>
+</head>
+<body>
+
+<button class="Khaki">Khaki</button>
+<button class="LightCyan">LightCyan</button>
+<button class="SandyBrown">SandyBrown</button>
+
+</body>
+</html>
